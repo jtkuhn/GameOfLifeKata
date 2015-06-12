@@ -1,0 +1,9 @@
+c:\users\jtkuhn\documents\visual studio 2013\Projects\GameOfLifeKata\GameOfLifeKataTests\bin\Debug\GameOfLifeKataTests.dll
+c:\users\jtkuhn\documents\visual studio 2013\Projects\GameOfLifeKata\GameOfLifeKataTests\bin\Debug\GameOfLifeKataTests.pdb
+c:\users\jtkuhn\documents\visual studio 2013\Projects\GameOfLifeKata\GameOfLifeKataTests\bin\Debug\GameOfLifeKata.dll
+c:\users\jtkuhn\documents\visual studio 2013\Projects\GameOfLifeKata\GameOfLifeKataTests\bin\Debug\nunit.framework.dll
+c:\users\jtkuhn\documents\visual studio 2013\Projects\GameOfLifeKata\GameOfLifeKataTests\bin\Debug\GameOfLifeKata.pdb
+c:\users\jtkuhn\documents\visual studio 2013\Projects\GameOfLifeKata\GameOfLifeKataTests\bin\Debug\nunit.framework.xml
+c:\users\jtkuhn\documents\visual studio 2013\Projects\GameOfLifeKata\GameOfLifeKataTests\obj\Debug\GameOfLifeKataTests.csprojResolveAssemblyReference.cache
+c:\users\jtkuhn\documents\visual studio 2013\Projects\GameOfLifeKata\GameOfLifeKataTests\obj\Debug\GameOfLifeKataTests.dll
+c:\users\jtkuhn\documents\visual studio 2013\Projects\GameOfLifeKata\GameOfLifeKataTests\obj\Debug\GameOfLifeKataTests.pdb
